@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://wuqh.github.io/th/sitemap.xml

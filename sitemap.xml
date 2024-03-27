@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://wuqh.github.io/th/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://wuqh.github.io/th/</loc>
+</url>
+<url>
+<loc>https://wuqh.github.io/th/ce-shi.html</loc>
+<lastmod>2024-03-27T15:26:57+08:00</lastmod>
+<image:image>
+<image:loc>https://wuqh.github.io/th/media/posts/1/Hu-Wai-Ba-Jian-Tao-Guo-1200.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://wuqh.github.io/th/feature.html</loc>
+<lastmod>2024-03-27T15:20:28+08:00</lastmod>
+</url>
+<url>
+<loc>https://wuqh.github.io/th/gou-he-shui.html</loc>
+<lastmod>2024-03-27T15:25:56+08:00</lastmod>
+<image:image>
+<image:loc>https://wuqh.github.io/th/media/posts/2/Chong-Wu-Bian-Xi-Shui-Bei.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+</urlset>
